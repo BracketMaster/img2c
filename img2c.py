@@ -13,10 +13,7 @@ Example use: \n \
         exit()
 
     #allow handling of both full and relative paths
-    if(sys.argv[1][0] == "/"):
-        os.chdir(sys.argv[1])
-    else:
-        os.chdir(os.getcwd() + "/" + sys.argv[1])
+    os.chdir(sys.argv[1])
 
     sprite_name = raw_input("What is the name of this Sprite? ")
     filename = 'frames.h'
