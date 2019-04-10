@@ -23,4 +23,4 @@ uLCD.BLIT(0,0,16,16,grass_tiles_frames[5]);
 ```
 
 ## Included Tiles
-![Tiles of Interest](preview.png)
+![Tiles of Interest](./docs/preview.png)
