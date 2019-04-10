@@ -1,3 +1,6 @@
+# Purpose
+Takes png sprites and converts them to C integer arrays for use with embedded displays such as the MBED's [uLCD](https://os.mbed.com/users/4180_1/notebook/ulcd-144-g2-128-by-128-color-lcd/).
+
 # img2c by Example
 ## Dependencies
 
