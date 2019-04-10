@@ -1,5 +1,7 @@
 # img2c by Example
 ## Dependencies
+
+### Linux
 pip install Pillow
 
 ### Mac
@@ -17,7 +19,7 @@ You can edit the path variable in ```~/bash_profile```
 3. Lastly do, ```pip2 install pillow```
 
 ## Instructions
-Example 16x16 images are provided.
+Example 16x16 images are provided. You can replace the example images with your own images - just make sure to maintain the naming convention. ```01.png```, ```02.png```, ```03.png``` etc...
 
 For this example, the provided images are 16x16 pixels and 128 character arrays are generated.
 
