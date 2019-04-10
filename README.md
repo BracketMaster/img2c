@@ -16,6 +16,7 @@ You can edit the path variable in ```~/bash_profile```
 ```which python2``` should return ```/usr/local/bin/python2```
 
 ```which pip2``` should return ```/usr/local/bin/pip2```
+
 3. Lastly do, ```pip2 install pillow```
 
 ## Instructions
