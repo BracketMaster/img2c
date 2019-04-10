@@ -1,4 +1,21 @@
 # img2c by Example
+## Dependencies
+pip install Pillow
+
+### Mac
+If you are on a Mac, you may need to [install brew](https://brew.sh).
+1. ```brew install python2```
+2. ```brew link python2```
+
+You may need to edit your path variable. You probably want to make sure that ```/usr/local/bin``` is first in path to ensure that brews python is executed first instead of the systems python.
+
+You can edit the path variable in ```~/bash_profile```
+
+```which python2``` should return ```/usr/local/bin/python2```
+
+```which pip2``` should return ```/usr/local/bin/pip2```
+3. Lastly do, ```pip2 install pillow```
+
 ## Instructions
 Example 16x16 images are provided.
 
